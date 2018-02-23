@@ -10,4 +10,4 @@ First setup:
 * mysql -h localhost -u root -padmin wordpress_47 < wordpress_47.sql (restore database)
 
 Local environment works on:
-* 127.0.0.1   wordpress47.dev
+* 127.0.0.1   wordpress47.local
